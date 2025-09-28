@@ -21,7 +21,7 @@
   <sortName>Hurtling Boys</sortName>
   <artistName>
     <id>999</id>
-    <str>さだきち 「太鼓の達人」より</str>
+    <str>さだきち イシカダス「太鼓の達人」より</str>
   </artistName>
   <genreName>
     <id>104</id>
@@ -64,45 +64,45 @@
       <file>
         <path>011920_00.ma2</path>
       </file>
-      <level>5</level>
+      <level>0</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>5</musicLevelID>
-      <maxNotes>233</maxNotes>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
       <isEnable>false</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011920_01.ma2</path>
       </file>
-      <level>8</level>
-      <levelDecimal>5</levelDecimal>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>9</musicLevelID>
-      <maxNotes>360</maxNotes>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
       <isEnable>false</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011920_02.ma2</path>
       </file>
-      <level>12</level>
-      <levelDecimal>8</levelDecimal>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str>サファ太</str>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>18</musicLevelID>
-      <maxNotes>609</maxNotes>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
       <isEnable>false</isEnable>
     </Notes>
     <Notes>
@@ -110,7 +110,7 @@
         <path>011920_03.ma2</path>
       </file>
       <level>14</level>
-      <levelDecimal>5</levelDecimal>
+      <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str>鳩ホルダー</str>

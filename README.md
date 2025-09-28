@@ -12,3 +12,7 @@ https://github.com/MasterLiushi/MaiMai-Circle-Copy-Chart
 
 --2025.9.26更新:
 添加：11919紫 11920紫
+
+--2025.9.29更新:
+调整：11919紫 11920紫
+添加：11919音源 11920音源
