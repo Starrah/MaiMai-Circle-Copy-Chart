@@ -27,4 +27,7 @@ https://github.com/MasterLiushi/MaiMai-Circle-Copy-Chart
 
 添加11922音源
 
+--2025.10.5更新:
+
+添加:10674紫
 
