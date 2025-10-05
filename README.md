@@ -31,3 +31,5 @@ https://github.com/MasterLiushi/MaiMai-Circle-Copy-Chart
 
 添加:10674紫
 
+调整:11882绿黄
+
