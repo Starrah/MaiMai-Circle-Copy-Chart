@@ -1,5 +1,5 @@
 # MaiMai-Circle-Copy-Chart
-MaiMai Circle的抄谱
+MaiMai Circle的抄谱和一些奇妙小玩意。
 
 部分本人抄谱+整合抄谱大手子，本人抄谱可能存在一些对音错误。希望能指出！感谢。
 
@@ -40,4 +40,15 @@ https://github.com/MasterLiushi/MaiMai-Circle-Copy-Chart
 --2025.10.16更新:
 
 添加:11884紫
+
+--2025.10.17更新:
+
+添加:
+
+劇場版プロジェクトセカイ　壊れたセカイと歌えないミクちほー联动区域（自制，非官方）
+
+
+FEAT CONTESTちほー联动区域（自制，非官方）
+
+
 
