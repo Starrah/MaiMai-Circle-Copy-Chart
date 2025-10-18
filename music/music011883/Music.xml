@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music011927</dataName>
+  <dataName>music011883</dataName>
   <netOpenName>
     <id>230922</id>
     <str>Net230922</str>
@@ -11,24 +11,24 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>11927</id>
-    <str>Worlders</str>
+    <id>11883</id>
+    <str>廃墟にいますキャンペーン</str>
   </name>
   <rightsInfoName>
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>Worlders</sortName>
+  <sortName>廃墟にいますキャンペーン</sortName>
   <artistName>
     <id>999</id>
-    <str>じん / バーチャル・シンガー、Leo/need、 MORE MORE JUMP！、Vivid BAD SQUAD、 ワンダーランズ×ショウタイム、25時、ナイトコードで。 「劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」</str>
+    <str>吉田夜世 feat.ちっく。</str>
   </artistName>
   <genreName>
-    <id>102</id>
+    <id>105</id>
     <str>
     </str>
   </genreName>
-  <bpm>137</bpm>
+  <bpm>215</bpm>
   <version>26000</version>
   <AddVersion>
     <id>25</id>
@@ -36,12 +36,12 @@
     </str>
   </AddVersion>
   <movieName>
-    <id>1927</id>
-    <str>Worlders</str>
+    <id>1883</id>
+    <str>廃墟にいますキャンペーン</str>
   </movieName>
   <cueName>
-    <id>1927</id>
-    <str>Worlders</str>
+    <id>1883</id>
+    <str>廃墟にいますキャンペーン</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -62,67 +62,67 @@
   <notesData>
     <Notes>
       <file>
-        <path>011927_00.ma2</path>
+        <path>011883_00.ma2</path>
       </file>
-      <level>2</level>
+      <level>5</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>2</musicLevelID>
-      <maxNotes>140</maxNotes>
-      <isEnable>true</isEnable>
+      <musicLevelID>5</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011927_01.ma2</path>
+        <path>011883_01.ma2</path>
       </file>
-      <level>6</level>
-      <levelDecimal>5</levelDecimal>
+      <level>8</level>
+      <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>6</musicLevelID>
-      <maxNotes>240</maxNotes>
-      <isEnable>true</isEnable>
+      <musicLevelID>9</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011927_02.ma2</path>
+        <path>011883_02.ma2</path>
       </file>
-      <level>9</level>
+      <level>10</level>
       <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>12</musicLevelID>
-      <maxNotes>384</maxNotes>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>583</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011927_03.ma2</path>
+        <path>011883_03.ma2</path>
       </file>
-      <level>12</level>
-      <levelDecimal>8</levelDecimal>
+      <level>13</level>
+      <levelDecimal>9</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str>カマボコ君</str>
+        <str>はっぴー</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>18</musicLevelID>
-      <maxNotes>532</maxNotes>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>879</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011927_04.ma2</path>
+        <path>011883_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -137,7 +137,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>011927_05.ma2</path>
+        <path>011883_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
