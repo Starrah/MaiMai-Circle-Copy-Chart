@@ -50,5 +50,9 @@ https://github.com/MasterLiushi/MaiMai-Circle-Copy-Chart
 
 FEAT CONTESTちほー联动区域（自制，非官方）
 
+--2025.10.18更新:
+
+添加:11926红紫 11927红紫
+
 
 
