@@ -2,12 +2,12 @@
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011919</dataName>
   <netOpenName>
-    <id>230922</id>
-    <str>Net230922</str>
+    <id>250926</id>
+    <str>Net250926</str>
   </netOpenName>
   <releaseTagName>
-    <id>4001</id>
-    <str>Ver1.40.00</str>
+    <id>6001</id>
+    <str>Ver1.60.00</str>
   </releaseTagName>
   <disable>false</disable>
   <name>
@@ -15,7 +15,7 @@
     <str>エンジェル ドリーム</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
+    <id>284</id>
     <str />
   </rightsInfoName>
   <sortName>エンジェル ドリーム</sortName>
@@ -29,7 +29,7 @@
     </str>
   </genreName>
   <bpm>180</bpm>
-  <version>26000</version>
+  <version>26001</version>
   <AddVersion>
     <id>25</id>
     <str>
@@ -45,8 +45,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>250926021</id>
+    <str>250926_02_1：バラエティ2曲追加《エンジェル ドリーム、Hurtling Boys》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -64,46 +64,46 @@
       <file>
         <path>011919_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>218</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011919_01.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>7</level>
+      <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>8</musicLevelID>
+      <maxNotes>355</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011919_02.ma2</path>
       </file>
-      <level>0</level>
+      <level>10</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str />
+        <id>128</id>
+        <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>539</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
@@ -112,7 +112,7 @@
       <level>13</level>
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>27</id>
         <str>サファ太</str>
       </notesDesigner>
       <notesType>0</notesType>

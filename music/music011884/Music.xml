@@ -72,23 +72,23 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>6</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <maxNotes>308</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011884_01.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>8</level>
+      <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>10</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <maxNotes>421</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
@@ -98,12 +98,12 @@
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>19</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <maxNotes>703</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>

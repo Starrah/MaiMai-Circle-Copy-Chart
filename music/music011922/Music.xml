@@ -2,12 +2,12 @@
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011922</dataName>
   <netOpenName>
-    <id>230922</id>
-    <str>Net230922</str>
+    <id>251003</id>
+    <str>Net251003</str>
   </netOpenName>
   <releaseTagName>
-    <id>4001</id>
-    <str>Ver1.40.00</str>
+    <id>6001</id>
+    <str>Ver1.60.00</str>
   </releaseTagName>
   <disable>false</disable>
   <name>
@@ -29,7 +29,7 @@
     </str>
   </genreName>
   <bpm>240</bpm>
-  <version>26000</version>
+  <version>26002</version>
   <AddVersion>
     <id>25</id>
     <str>
@@ -45,8 +45,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251003021</id>
+    <str>251003_02_1：FEAT CONTESTちほー 2曲+3曲(Lock)追加《しゅ～しん？変身☆ハカイシンzzZ、命テステス、拝啓、最高の思い出たち、おべんきょうたいむ、るろうらんる》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -64,46 +64,46 @@
       <file>
         <path>011922_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>3</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>169</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011922_01.ma2</path>
       </file>
-      <level>0</level>
+      <level>8</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>9</musicLevelID>
+      <maxNotes>324</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011922_02.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>11</level>
+      <levelDecimal>2</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str />
+        <str>Jack</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>15</musicLevelID>
+      <maxNotes>413</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music011882</dataName>
+  <dataName>music101783</dataName>
   <netOpenName>
-    <id>250918</id>
-    <str>Net250918</str>
+    <id>251016</id>
+    <str>Net251016</str>
   </netOpenName>
   <releaseTagName>
     <id>6001</id>
@@ -12,116 +12,71 @@
   <disable>false</disable>
   <longMusic>0</longMusic>
   <name>
-    <id>11882</id>
-    <str>殿ッ！？ご乱心！？</str>
+    <id>101783</id>
+    <str>[音]snooze</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
-    <str />
+    <id>217</id>
+    <str>© 2024 wotaku</str>
   </rightsInfoName>
-  <sortName>トノツコランシン</sortName>
+  <sortName>[音]snooze</sortName>
   <artistName>
-    <id>1089</id>
-    <str>Shu feat. 天羽しろっぷ</str>
+    <id>999</id>
+    <str>wotaku feat.SHIKI</str>
   </artistName>
   <genreName>
-    <id>105</id>
-    <str>maimai</str>
+    <id>107</id>
+    <str>宴会場</str>
   </genreName>
-  <bpm>200</bpm>
+  <bpm>150</bpm>
   <version>26000</version>
   <AddVersion>
     <id>25</id>
     <str>CiRCLE</str>
   </AddVersion>
   <movieName>
-    <id>1882</id>
-    <str>殿ッ！？ご乱心！？</str>
+    <id>1783</id>
+    <str>[音]snooze</str>
   </movieName>
   <cueName>
-    <id>1882</id>
-    <str>殿ッ！？ご乱心！？</str>
+    <id>1783</id>
+    <str>[音]snooze</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>250918025</id>
-    <str>250918_02_5：トリコロちほー 1曲+2曲(Lock)追加</str>
+    <id>251016028</id>
+    <str>251016_02_8：宴譜面追加1</str>
   </eventName>
   <eventName2>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </eventName2>
   <subEventName>
-    <id>0</id>
-    <str>解放なし</str>
+    <id>-1</id>
+    <str />
   </subEventName>
-  <lockType>1</lockType>
-  <subLockType>1</subLockType>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
       <file>
-        <path>011882_00.ma2</path>
+        <path>101783_00.ma2</path>
       </file>
-      <level>6</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>0</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>6</musicLevelID>
-      <maxNotes>303</maxNotes>
-      <isEnable>true</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>011882_01.ma2</path>
-      </file>
-      <level>8</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>0</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>9</musicLevelID>
-      <maxNotes>345</maxNotes>
-      <isEnable>true</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>011882_02.ma2</path>
-      </file>
-      <level>12</level>
+      <level>13</level>
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
-        <id>2</id>
-        <str>はっぴー</str>
+        <id>0</id>
+        <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>18</musicLevelID>
-      <maxNotes>633</maxNotes>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>1052</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>011882_03.ma2</path>
-      </file>
-      <level>14</level>
-      <levelDecimal>2</levelDecimal>
-      <notesDesigner>
-        <id>9</id>
-        <str>ぴちネコ</str>
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>21</musicLevelID>
-      <maxNotes>885</maxNotes>
-      <isEnable>true</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>011882_04.ma2</path>
+        <path>101783_01.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -136,7 +91,52 @@
     </Notes>
     <Notes>
       <file>
-        <path>011882_05.ma2</path>
+        <path>101783_02.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>101783_03.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>101783_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>101783_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -150,25 +150,25 @@
       <isEnable>false</isEnable>
     </Notes>
   </notesData>
-  <utageKanjiName />
-  <comment />
+  <utageKanjiName>音</utageKanjiName>
+  <comment>～音取りほぼMAXバージョン～</comment>
   <utagePlayStyle>0</utagePlayStyle>
   <fixedOptions>
     <FixedOption>
-      <_fixedOptionName />
-      <_fixedOptionValue />
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
-      <_fixedOptionName />
-      <_fixedOptionValue />
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
-      <_fixedOptionName />
-      <_fixedOptionValue />
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
     <FixedOption>
-      <_fixedOptionName />
-      <_fixedOptionValue />
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
     </FixedOption>
   </fixedOptions>
   <jacketFile />

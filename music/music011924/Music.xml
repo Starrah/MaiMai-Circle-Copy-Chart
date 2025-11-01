@@ -2,12 +2,12 @@
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011924</dataName>
   <netOpenName>
-    <id>230922</id>
-    <str>Net230922</str>
+    <id>251003</id>
+    <str>Net251003</str>
   </netOpenName>
   <releaseTagName>
-    <id>4001</id>
-    <str>Ver1.40.00</str>
+    <id>6001</id>
+    <str>Ver1.60.00</str>
   </releaseTagName>
   <disable>false</disable>
   <name>
@@ -20,7 +20,7 @@
   </rightsInfoName>
   <sortName>おべんきょうたいむ</sortName>
   <artistName>
-    <id>999</id>
+    <id>680</id>
     <str>litmus*</str>
   </artistName>
   <genreName>
@@ -29,7 +29,7 @@
     </str>
   </genreName>
   <bpm>165</bpm>
-  <version>26000</version>
+  <version>26002</version>
   <AddVersion>
     <id>25</id>
     <str>
@@ -45,8 +45,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251003021</id>
+    <str>251003_02_1：FEAT CONTESTちほー 2曲+3曲(Lock)追加《しゅ～しん？変身☆ハカイシンzzZ、命テステス、拝啓、最高の思い出たち、おべんきょうたいむ、るろうらんる》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -56,7 +56,7 @@
     <id>1</id>
     <str>解放なし</str>
   </subEventName>
-  <lockType>0</lockType>
+  <lockType>1</lockType>
   <subLockType>0</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
@@ -64,46 +64,46 @@
       <file>
         <path>011924_00.ma2</path>
       </file>
-      <level>0</level>
+      <level>5</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>5</musicLevelID>
+      <maxNotes>252</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011924_01.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>7</level>
+      <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>999</id>
         <str />
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>8</musicLevelID>
+      <maxNotes>368</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
         <path>011924_02.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
+      <level>12</level>
+      <levelDecimal>4</levelDecimal>
       <notesDesigner>
-        <id>999</id>
-        <str />
+        <id>27</id>
+        <str>サファ太</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>653</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
@@ -112,7 +112,7 @@
       <level>14</level>
       <levelDecimal>1</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>2</id>
         <str>はっぴー</str>
       </notesDesigner>
       <notesType>0</notesType>
