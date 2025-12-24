@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>information251030013</dataName>
+  <disable>false</disable>
+  <name>
+    <id>251030013</id>
+    <str>251030_01_3：KOP7th予選楽曲紹介</str>
+  </name>
+  <eventName>
+    <id>251030013</id>
+    <str>251030_01_3：KOP7th予選楽曲紹介</str>
+  </eventName>
+  <infoText>KOP7th予選楽曲紹介</infoText>
+  <fileName>
+    <path>UI_DXInfo_251030013.png</path>
+  </fileName>
+  <infoKind>Info</infoKind>
+</InformationData>

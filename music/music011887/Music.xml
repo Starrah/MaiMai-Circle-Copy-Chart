@@ -18,7 +18,7 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>Eternal Return</sortName>
+  <sortName>ETERNALRETURN</sortName>
   <artistName>
     <id>999</id>
     <str>Tatsunoshin &amp; Aira Arere</str>
@@ -29,7 +29,7 @@
     </str>
   </genreName>
   <bpm>180</bpm>
-  <version>26000</version>
+  <version>26005</version>
   <AddVersion>
     <id>25</id>
     <str>
@@ -113,7 +113,7 @@
       <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str>カマボコ君</str>
+        <str>力マボコ君</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>20</musicLevelID>

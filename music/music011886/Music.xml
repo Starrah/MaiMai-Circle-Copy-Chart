@@ -18,7 +18,7 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>真空都市</sortName>
+  <sortName>シンクウトシ</sortName>
   <artistName>
     <id>999</id>
     <str>ナナツカゼ</str>
@@ -29,7 +29,7 @@
     </str>
   </genreName>
   <bpm>185</bpm>
-  <version>26000</version>
+  <version>26005</version>
   <AddVersion>
     <id>25</id>
     <str>
@@ -98,7 +98,7 @@
       <levelDecimal>8</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str>Luxizhel</str>
+        <str>Luxizhei</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>14</musicLevelID>

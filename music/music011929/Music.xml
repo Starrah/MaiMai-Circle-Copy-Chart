@@ -2,12 +2,12 @@
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music011929</dataName>
   <netOpenName>
-    <id>230922</id>
-    <str>Net230922</str>
+    <id>251030</id>
+    <str>Net251030</str>
   </netOpenName>
   <releaseTagName>
-    <id>4001</id>
-    <str>Ver1.40.00</str>
+    <id>6001</id>
+    <str>Ver1.60.00</str>
   </releaseTagName>
   <disable>false</disable>
   <name>
@@ -15,25 +15,23 @@
     <str>ヒアソビ</str>
   </name>
   <rightsInfoName>
-    <id>0</id>
+    <id>265</id>
     <str />
   </rightsInfoName>
   <sortName>ヒアソビ</sortName>
   <artistName>
-    <id>999</id>
+    <id>759</id>
     <str>かめりあ</str>
   </artistName>
   <genreName>
     <id>102</id>
-    <str>
-    </str>
+    <str>niconicoボーカロイド</str>
   </genreName>
   <bpm>134</bpm>
-  <version>26000</version>
+  <version>26004</version>
   <AddVersion>
     <id>25</id>
-    <str>
-    </str>
+    <str>CiRCLE</str>
   </AddVersion>
   <movieName>
     <id>1929</id>
@@ -45,8 +43,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>1</id>
-    <str>無期限常時解放</str>
+    <id>251030022</id>
+    <str>251030_02_2：niconico1曲追加《ヒアソビ》</str>
   </eventName>
   <eventName2>
     <id>0</id>
@@ -73,7 +71,7 @@
       <notesType>0</notesType>
       <musicLevelID>3</musicLevelID>
       <maxNotes>218</maxNotes>
-      <isEnable>false</isEnable>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
@@ -88,7 +86,7 @@
       <notesType>0</notesType>
       <musicLevelID>7</musicLevelID>
       <maxNotes>324</maxNotes>
-      <isEnable>false</isEnable>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
@@ -97,7 +95,7 @@
       <level>10</level>
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>128</id>
         <str>Luxizhel</str>
       </notesDesigner>
       <notesType>0</notesType>
@@ -112,7 +110,7 @@
       <level>13</level>
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
-        <id>999</id>
+        <id>4</id>
         <str>Jack</str>
       </notesDesigner>
       <notesType>0</notesType>

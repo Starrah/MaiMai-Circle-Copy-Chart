@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>event251030013</dataName>
+  <name>
+    <id>251030013</id>
+    <str>251030_01_3：KOP7th予選楽曲紹介</str>
+  </name>
+  <infoType>0</infoType>
+  <alwaysOpen>false</alwaysOpen>
+  <disableArea>---</disableArea>
+</EventData>

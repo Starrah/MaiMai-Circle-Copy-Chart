@@ -18,7 +18,7 @@
     <id>0</id>
     <str />
   </rightsInfoName>
-  <sortName>Get U ♭ack</sortName>
+  <sortName>GETUBACK</sortName>
   <artistName>
     <id>999</id>
     <str>Ryo Fukuda</str>
@@ -29,7 +29,7 @@
     </str>
   </genreName>
   <bpm>205</bpm>
-  <version>26000</version>
+  <version>26005</version>
   <AddVersion>
     <id>25</id>
     <str>
@@ -98,7 +98,7 @@
       <levelDecimal>9</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str>きょむりん</str>
+        <str>きよむりん</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>18</musicLevelID>
@@ -113,7 +113,7 @@
       <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>999</id>
-        <str>Luxizhel</str>
+        <str>Luxizhei</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>21</musicLevelID>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MapTreasureData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>MapTreasure605661</dataName>
+  <itemID>605601</itemID>
+  <name>
+    <id>605661</id>
+    <str>Project ONSOKUちほー</str>
+  </name>
+  <TreasureType>Frame</TreasureType>
+  <CharacterId>
+    <id>101</id>
+    <str>でらっくま</str>
+  </CharacterId>
+  <MusicId>
+    <id>0</id>
+    <str>【使用禁止】チュートリアル（既存）</str>
+  </MusicId>
+  <Numeric>1</Numeric>
+  <NamePlate>
+    <id>1</id>
+    <str>デフォルト</str>
+  </NamePlate>
+  <Frame>
+    <id>605601</id>
+    <str>Project ONSOKUちほー</str>
+  </Frame>
+  <Title>
+    <id>1</id>
+    <str>でびゅー</str>
+  </Title>
+  <Icon>
+    <id>1</id>
+    <str>デフォルト</str>
+  </Icon>
+  <Challenge>
+    <id>0</id>
+    <str>【使用禁止】</str>
+  </Challenge>
+  <Gate>
+    <id>1</id>
+    <str>青の扉</str>
+  </Gate>
+  <Key>
+    <id>1</id>
+    <str>青の鍵</str>
+  </Key>
+</MapTreasureData>

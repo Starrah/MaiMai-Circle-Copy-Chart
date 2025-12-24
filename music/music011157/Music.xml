@@ -52,11 +52,11 @@
     <str>解放なし</str>
   </eventName2>
   <subEventName>
-    <id>0</id>
+    <id>1</id>
     <str>解放なし</str>
   </subEventName>
   <lockType>0</lockType>
-  <subLockType>1</subLockType>
+  <subLockType>0</subLockType>
   <dotNetListView>true</dotNetListView>
   <notesData>
     <Notes>
@@ -126,7 +126,7 @@
       <level>14</level>
       <levelDecimal>1</levelDecimal>
       <notesDesigner>
-        <id>31</id>
+        <id>999</id>
         <str>じゃこレモン</str>
       </notesDesigner>
       <notesType>0</notesType>

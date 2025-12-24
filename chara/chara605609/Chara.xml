@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CharaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>chara605609</dataName>
+  <name>
+    <id>605609</id>
+    <str>ダークチャオ（トレジャーガーデン）</str>
+  </name>
+  <color>
+    <id>600056</id>
+    <str>Project ONSOKU</str>
+  </color>
+  <genre>
+    <id>600056</id>
+    <str>Project ONSOKU</str>
+  </genre>
+  <isCopyright>false</isCopyright>
+  <disable>false</disable>
+  <netOpenName>
+    <id>251120</id>
+    <str>Net251120</str>
+  </netOpenName>
+  <imageFile />
+  <priority>0</priority>
+</CharaData>

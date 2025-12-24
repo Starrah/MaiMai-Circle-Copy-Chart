@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>event251030051</dataName>
+  <name>
+    <id>251030051</id>
+    <str>251030_05_1：ScoreRanking KOP7th(ID:20003)</str>
+  </name>
+  <infoType>0</infoType>
+  <alwaysOpen>false</alwaysOpen>
+  <disableArea>---</disableArea>
+</EventData>

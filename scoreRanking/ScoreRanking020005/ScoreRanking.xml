@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScoreRankingData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>ScoreRanking020005</dataName>
+  <name>
+    <id>20005</id>
+    <str>KING of Performai The 7th</str>
+  </name>
+  <isSpecial>true</isSpecial>
+  <eventName>
+    <id>251030051</id>
+    <str>251030_05_1：ScoreRanking KOP7th(ID:20003)</str>
+  </eventName>
+  <eventText>KOP The 7th告知</eventText>
+  <netOpenName>
+    <id>251030</id>
+    <str>Net251030</str>
+  </netOpenName>
+  <MusicIds>
+    <list>
+      <StringID>
+        <id>746</id>
+        <str>larva</str>
+      </StringID>
+      <StringID>
+        <id>11374</id>
+        <str>GIGANTØMAKHIA</str>
+      </StringID>
+      <StringID>
+        <id>11885</id>
+        <str>False Amber (from the Black Bazaar, Or by A Kervan Trader from the Lands Afar, Or Buried Beneath the Shifting Sands That Lead Everywhere but Nowhere)</str>
+      </StringID>
+    </list>
+  </MusicIds>
+  <genreName>KING of Performai The 7th</genreName>
+  <genreNameTwoLine>KING of Performai
+The 7th</genreNameTwoLine>
+  <Color>
+    <R>191</R>
+    <G>151</G>
+    <B>30</B>
+  </Color>
+  <FileName>UI_Tab_Kop</FileName>
+</ScoreRankingData>

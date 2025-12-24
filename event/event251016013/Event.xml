@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EventData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>event251016013</dataName>
+  <name>
+    <id>251016013</id>
+    <str>251016_01_3：ソニックレーシング クロスワールド</str>
+  </name>
+  <infoType>0</infoType>
+  <alwaysOpen>false</alwaysOpen>
+  <disableArea>---</disableArea>
+</EventData>

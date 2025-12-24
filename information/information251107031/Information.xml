@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>information251107031</dataName>
+  <disable>false</disable>
+  <name>
+    <id>251107031</id>
+    <str>251107_03_1：kawaiiちほー2 解禁</str>
+  </name>
+  <eventName>
+    <id>251107031</id>
+    <str>251107_03_1：kawaiiちほー2 解禁</str>
+  </eventName>
+  <infoText>kawaiiちほー2 解禁</infoText>
+  <fileName>
+    <path>UI_DXInfo_251107031.png</path>
+  </fileName>
+  <infoKind>Info</infoKind>
+</InformationData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InformationData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>information251016011</dataName>
+  <disable>false</disable>
+  <name>
+    <id>251016011</id>
+    <str>251016_01_1：劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」ちほー登場！</str>
+  </name>
+  <eventName>
+    <id>251016011</id>
+    <str>251016_01_1：劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」ちほー登場！</str>
+  </eventName>
+  <infoText>劇場版プロジェクトセカイ　壊れたセカイと歌えないミク」ちほー登場！</infoText>
+  <fileName>
+    <path>UI_DXInfo_251016011.png</path>
+  </fileName>
+  <infoKind>Event</infoKind>
+</InformationData>

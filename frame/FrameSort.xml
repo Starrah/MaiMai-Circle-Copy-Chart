@@ -1,0 +1,2018 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SerializeSortData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>frame</dataName>
+  <SortList>
+    <StringID>
+      <id>2</id>
+      <str>全体からランダム</str>
+    </StringID>
+    <StringID>
+      <id>3</id>
+      <str>お気に入りからランダム</str>
+    </StringID>
+    <StringID>
+      <id>1</id>
+      <str>デフォルト</str>
+    </StringID>
+    <StringID>
+      <id>150051</id>
+      <str>タケモトピアノ</str>
+    </StringID>
+    <StringID>
+      <id>100101</id>
+      <str>しゅわしゅわちほー</str>
+    </StringID>
+    <StringID>
+      <id>100301</id>
+      <str>メトロポリスちほー3</str>
+    </StringID>
+    <StringID>
+      <id>100401</id>
+      <str>スカイストリートちほー</str>
+    </StringID>
+    <StringID>
+      <id>100501</id>
+      <str>天界ちほー3</str>
+    </StringID>
+    <StringID>
+      <id>100601</id>
+      <str>BLACK ROSEちほー3</str>
+    </StringID>
+    <StringID>
+      <id>100701</id>
+      <str>竜宮城のなつやすみ</str>
+    </StringID>
+    <StringID>
+      <id>100702</id>
+      <str>本日のCAFE MiLKはおやすみです。</str>
+    </StringID>
+    <StringID>
+      <id>100703</id>
+      <str>クリームソーダ、ひとくちほしいにゃ～！</str>
+    </StringID>
+    <StringID>
+      <id>105101</id>
+      <str>まちカドまぞくちほー</str>
+    </StringID>
+    <StringID>
+      <id>105201</id>
+      <str>ご注文はうさぎですか？？ちほー</str>
+    </StringID>
+    <StringID>
+      <id>105301</id>
+      <str>ナユタン星人ちほー</str>
+    </StringID>
+    <StringID>
+      <id>105401</id>
+      <str>GYARIちほー2</str>
+    </StringID>
+    <StringID>
+      <id>105501</id>
+      <str>東方Projectリバイバルちほー</str>
+    </StringID>
+    <StringID>
+      <id>105601</id>
+      <str>Arcaeaちほー</str>
+    </StringID>
+    <StringID>
+      <id>105701</id>
+      <str>かいりきベアちほー</str>
+    </StringID>
+    <StringID>
+      <id>105801</id>
+      <str>プロジェクトセカイちほー</str>
+    </StringID>
+    <StringID>
+      <id>105901</id>
+      <str>にじさんじちほー</str>
+    </StringID>
+    <StringID>
+      <id>106001</id>
+      <str>いらすとやちほー</str>
+    </StringID>
+    <StringID>
+      <id>106101</id>
+      <str>オンゲキちほー2</str>
+    </StringID>
+    <StringID>
+      <id>106201</id>
+      <str>そらみこちほー</str>
+    </StringID>
+    <StringID>
+      <id>150101</id>
+      <str>しゅわしゅわちほー2</str>
+    </StringID>
+    <StringID>
+      <id>150201</id>
+      <str>BLACK ROSEちほー4</str>
+    </StringID>
+    <StringID>
+      <id>150301</id>
+      <str>スカイストリートちほー2</str>
+    </StringID>
+    <StringID>
+      <id>150401</id>
+      <str>kawaiiちほー</str>
+    </StringID>
+    <StringID>
+      <id>150501</id>
+      <str>高天原ちほー</str>
+    </StringID>
+    <StringID>
+      <id>150601</id>
+      <str>らいむっくま＆れもんっくま</str>
+    </StringID>
+    <StringID>
+      <id>150602</id>
+      <str>すりりんぐでしゅわりんぐ、じゃ！</str>
+    </StringID>
+    <StringID>
+      <id>150603</id>
+      <str>光吉カーニバル</str>
+    </StringID>
+    <StringID>
+      <id>155101</id>
+      <str>炎炎ノ消防隊ちほー</str>
+    </StringID>
+    <StringID>
+      <id>155201</id>
+      <str>すみっコぐらしちほー</str>
+    </StringID>
+    <StringID>
+      <id>155301</id>
+      <str>HaNaMiNaちほー</str>
+    </StringID>
+    <StringID>
+      <id>155401</id>
+      <str>HARDCORE TANO*Cちほー</str>
+    </StringID>
+    <StringID>
+      <id>155501</id>
+      <str>東方Projectリバイバルちほー2</str>
+    </StringID>
+    <StringID>
+      <id>155601</id>
+      <str>乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…ちほー</str>
+    </StringID>
+    <StringID>
+      <id>155701</id>
+      <str>ビックカメラちほー</str>
+    </StringID>
+    <StringID>
+      <id>155901</id>
+      <str>はるまきごはんちほー</str>
+    </StringID>
+    <StringID>
+      <id>156001</id>
+      <str>オンゲキちほー3</str>
+    </StringID>
+    <StringID>
+      <id>259101</id>
+      <str>Thank you for playing -でらっくす-</str>
+    </StringID>
+    <StringID>
+      <id>109101</id>
+      <str>PERFECT Jewel [Diamond]</str>
+    </StringID>
+    <StringID>
+      <id>109102</id>
+      <str>SYNC Jewel [Diamond]</str>
+    </StringID>
+    <StringID>
+      <id>109501</id>
+      <str>maimai ALL PERFECT COLLECTiON</str>
+    </StringID>
+    <StringID>
+      <id>159501</id>
+      <str>黒姫</str>
+    </StringID>
+    <StringID>
+      <id>159502</id>
+      <str>百合咲ミカ</str>
+    </StringID>
+    <StringID>
+      <id>200101</id>
+      <str>宇宙すてーしょんちほー</str>
+    </StringID>
+    <StringID>
+      <id>200102</id>
+      <str>宇宙すてーしょんちほー おまけ</str>
+    </StringID>
+    <StringID>
+      <id>200201</id>
+      <str>天界ちほー4</str>
+    </StringID>
+    <StringID>
+      <id>200202</id>
+      <str>天界ちほー4 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>200301</id>
+      <str>メトロポリスちほー4</str>
+    </StringID>
+    <StringID>
+      <id>200302</id>
+      <str>メトロポリスちほー4 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>200401</id>
+      <str>7sRefちほー</str>
+    </StringID>
+    <StringID>
+      <id>200402</id>
+      <str>7sRefちほー おまけ</str>
+    </StringID>
+    <StringID>
+      <id>200501</id>
+      <str>ユニバースちほー</str>
+    </StringID>
+    <StringID>
+      <id>200502</id>
+      <str>でらっくmaimai♪てんてこまい!</str>
+    </StringID>
+    <StringID>
+      <id>200503</id>
+      <str>絡めトリック利己ライザー</str>
+    </StringID>
+    <StringID>
+      <id>200601</id>
+      <str>BLACK ROSEちほー5</str>
+    </StringID>
+    <StringID>
+      <id>200602</id>
+      <str>BLACK ROSEちほー5 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>205101</id>
+      <str>アイドルマスター ミリオンライブ！ちほー</str>
+    </StringID>
+    <StringID>
+      <id>205201</id>
+      <str>アイドルマスター SideMちほー</str>
+    </StringID>
+    <StringID>
+      <id>205301</id>
+      <str>cosMo@暴走Pちほー</str>
+    </StringID>
+    <StringID>
+      <id>205401</id>
+      <str>オーイシ×加藤のピザラジオちほー</str>
+    </StringID>
+    <StringID>
+      <id>205501</id>
+      <str>東方ダンマクカグラちほー</str>
+    </StringID>
+    <StringID>
+      <id>205601</id>
+      <str>キノシタちほー</str>
+    </StringID>
+    <StringID>
+      <id>205701</id>
+      <str>ゆるキャン△ SEASON2ちほー</str>
+    </StringID>
+    <StringID>
+      <id>205801</id>
+      <str>宇崎ちゃんは遊びたい！ちほー</str>
+    </StringID>
+    <StringID>
+      <id>205901</id>
+      <str>Rain Dropsちほー</str>
+    </StringID>
+    <StringID>
+      <id>206001</id>
+      <str>プロジェクトセカイちほー2</str>
+    </StringID>
+    <StringID>
+      <id>206101</id>
+      <str>Project DIVAちほー3</str>
+    </StringID>
+    <StringID>
+      <id>206201</id>
+      <str>オンゲキちほー4</str>
+    </StringID>
+    <StringID>
+      <id>206301</id>
+      <str>舞ヶ原シンセ研究会ちほー</str>
+    </StringID>
+    <StringID>
+      <id>209101</id>
+      <str>Thank you for playing -Splash-</str>
+    </StringID>
+    <StringID>
+      <id>209103</id>
+      <str>PERFECT Jewel [Emerald]</str>
+    </StringID>
+    <StringID>
+      <id>209102</id>
+      <str>SYNC Jewel [Emerald]</str>
+    </StringID>
+    <StringID>
+      <id>209501</id>
+      <str>「シーズン1」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>209502</id>
+      <str>「シーズン2」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>209503</id>
+      <str>「シーズン3」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>209504</id>
+      <str>ここからはじまるプロローグ。</str>
+    </StringID>
+    <StringID>
+      <id>209505</id>
+      <str>maimai でらっくす ベストアルバムちほー</str>
+    </StringID>
+    <StringID>
+      <id>209506</id>
+      <str>モ゜ルモ゜ル</str>
+    </StringID>
+    <StringID>
+      <id>209507</id>
+      <str>PERFECT CHALLENGE DiSC PLUS -UNiVERSE-</str>
+    </StringID>
+    <StringID>
+      <id>250051</id>
+      <str>SEGA本社【虹】</str>
+    </StringID>
+    <StringID>
+      <id>250053</id>
+      <str>若い力</str>
+    </StringID>
+    <StringID>
+      <id>250054</id>
+      <str>BLUE ZONE</str>
+    </StringID>
+    <StringID>
+      <id>250101</id>
+      <str>宇宙すてーしょんちほー2</str>
+    </StringID>
+    <StringID>
+      <id>250102</id>
+      <str>宇宙すてーしょんちほー2 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>250201</id>
+      <str>メトロポリスちほー5</str>
+    </StringID>
+    <StringID>
+      <id>250202</id>
+      <str>メトロポリスちほー5 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>250301</id>
+      <str>天界ちほー5</str>
+    </StringID>
+    <StringID>
+      <id>250302</id>
+      <str>天界ちほー5 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>250401</id>
+      <str>7sRefちほー2</str>
+    </StringID>
+    <StringID>
+      <id>250402</id>
+      <str>7sRefちほー2 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>250501</id>
+      <str>ユニバースちほー2</str>
+    </StringID>
+    <StringID>
+      <id>250601</id>
+      <str>BLACK ROSEちほー6</str>
+    </StringID>
+    <StringID>
+      <id>250602</id>
+      <str>BLACK ROSEちほー6 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>250701</id>
+      <str>ホワイトボード(はっぴー)</str>
+    </StringID>
+    <StringID>
+      <id>250702</id>
+      <str>maistagram</str>
+    </StringID>
+    <StringID>
+      <id>250703</id>
+      <str>maimai CAFE MiLK</str>
+    </StringID>
+    <StringID>
+      <id>250704</id>
+      <str>竜宮城</str>
+    </StringID>
+    <StringID>
+      <id>250705</id>
+      <str>maimai PiNK</str>
+    </StringID>
+    <StringID>
+      <id>250706</id>
+      <str>maimai ORANGE</str>
+    </StringID>
+    <StringID>
+      <id>250707</id>
+      <str>maimai GreeN B</str>
+    </StringID>
+    <StringID>
+      <id>250708</id>
+      <str>maimai Dots Black</str>
+    </StringID>
+    <StringID>
+      <id>250709</id>
+      <str>QZKago Requiem しゃま1</str>
+    </StringID>
+    <StringID>
+      <id>250710</id>
+      <str>QZKago Requiem みるく1</str>
+    </StringID>
+    <StringID>
+      <id>250711</id>
+      <str>Schwarzschild 1</str>
+    </StringID>
+    <StringID>
+      <id>250712</id>
+      <str>Alea jacta est! 1</str>
+    </StringID>
+    <StringID>
+      <id>250713</id>
+      <str>FFT 1</str>
+    </StringID>
+    <StringID>
+      <id>250714</id>
+      <str>雷切-RAIKIRI- 2</str>
+    </StringID>
+    <StringID>
+      <id>250715</id>
+      <str>the EmpErroR 2</str>
+    </StringID>
+    <StringID>
+      <id>250716</id>
+      <str>Believe the Rainbow 2</str>
+    </StringID>
+    <StringID>
+      <id>250717</id>
+      <str>PANDORA PARADOXXX 1</str>
+    </StringID>
+    <StringID>
+      <id>250718</id>
+      <str>花と、雪と、ドラムンベース。　1</str>
+    </StringID>
+    <StringID>
+      <id>250719</id>
+      <str>花と、雪と、ドラムンベース。　2</str>
+    </StringID>
+    <StringID>
+      <id>250720</id>
+      <str>みるくの大人専用お子様ランチコースにゃフレーム</str>
+    </StringID>
+    <StringID>
+      <id>250721</id>
+      <str>Magical Flavor 1</str>
+    </StringID>
+    <StringID>
+      <id>250722</id>
+      <str>Excalibur ～Revived resolution～</str>
+    </StringID>
+    <StringID>
+      <id>250723</id>
+      <str>夢花火</str>
+    </StringID>
+    <StringID>
+      <id>250724</id>
+      <str>ユビキリ</str>
+    </StringID>
+    <StringID>
+      <id>250725</id>
+      <str>宴じゃ!乙姫の大盤振る舞舞フレーム</str>
+    </StringID>
+    <StringID>
+      <id>250726</id>
+      <str>いっしそう電☆舞舞神拳！</str>
+    </StringID>
+    <StringID>
+      <id>250727</id>
+      <str>Our Wrenally</str>
+    </StringID>
+    <StringID>
+      <id>250728</id>
+      <str>Hyper Active</str>
+    </StringID>
+    <StringID>
+      <id>250729</id>
+      <str>AMAZING MIGHTYYYY!!!!</str>
+    </StringID>
+    <StringID>
+      <id>250730</id>
+      <str>てってれ～♪　ラズのビビットコースフレーム　</str>
+    </StringID>
+    <StringID>
+      <id>250731</id>
+      <str>7thSense</str>
+    </StringID>
+    <StringID>
+      <id>250732</id>
+      <str>Glorious Crown</str>
+    </StringID>
+    <StringID>
+      <id>250733</id>
+      <str>Aiolos</str>
+    </StringID>
+    <StringID>
+      <id>250734</id>
+      <str>Oshama Scramble!</str>
+    </StringID>
+    <StringID>
+      <id>250735</id>
+      <str>おしゃま牛乳社長のしゃまでございますコースフレーム</str>
+    </StringID>
+    <StringID>
+      <id>250736</id>
+      <str>oboro</str>
+    </StringID>
+    <StringID>
+      <id>250737</id>
+      <str>Caliburne</str>
+    </StringID>
+    <StringID>
+      <id>250738</id>
+      <str>ニャイン</str>
+    </StringID>
+    <StringID>
+      <id>250739</id>
+      <str>mai-Star</str>
+    </StringID>
+    <StringID>
+      <id>250740</id>
+      <str>シフォンのヨリドリ♪ミドリ♪コースですわ!フレーム</str>
+    </StringID>
+    <StringID>
+      <id>250741</id>
+      <str>System “Z”</str>
+    </StringID>
+    <StringID>
+      <id>250742</id>
+      <str>Garakuta Doll Play</str>
+    </StringID>
+    <StringID>
+      <id>250743</id>
+      <str>Starlight Disco</str>
+    </StringID>
+    <StringID>
+      <id>250744</id>
+      <str>Fragrance</str>
+    </StringID>
+    <StringID>
+      <id>250745</id>
+      <str>ソルトの新感覚コースなのですフレーム</str>
+    </StringID>
+    <StringID>
+      <id>250746</id>
+      <str>SONIC THE HEDGEHOG(SUPER SONIC)</str>
+    </StringID>
+    <StringID>
+      <id>250747</id>
+      <str>ジングルベル</str>
+    </StringID>
+    <StringID>
+      <id>250749</id>
+      <str>龍宮茶館　店内</str>
+    </StringID>
+    <StringID>
+      <id>250750</id>
+      <str>CafeMiLK　店内</str>
+    </StringID>
+    <StringID>
+      <id>250751</id>
+      <str>LOPIT Halloween</str>
+    </StringID>
+    <StringID>
+      <id>250752</id>
+      <str>LOPIT Snowfield</str>
+    </StringID>
+    <StringID>
+      <id>250753</id>
+      <str>はっぴー（10周年）</str>
+    </StringID>
+    <StringID>
+      <id>255101</id>
+      <str>小林さんちのメイドラゴンSちほー</str>
+    </StringID>
+    <StringID>
+      <id>255201</id>
+      <str>ツユちほー</str>
+    </StringID>
+    <StringID>
+      <id>255301</id>
+      <str>D4DJ Groovy Mixちほー</str>
+    </StringID>
+    <StringID>
+      <id>255302</id>
+      <str>Photon Maiden</str>
+    </StringID>
+    <StringID>
+      <id>255303</id>
+      <str>Lyrical Lily</str>
+    </StringID>
+    <StringID>
+      <id>255401</id>
+      <str>Diverse Systemちほー</str>
+    </StringID>
+    <StringID>
+      <id>255501</id>
+      <str>Rain Dropsちほー2</str>
+    </StringID>
+    <StringID>
+      <id>255601</id>
+      <str>ゲームセンターCXちほー</str>
+    </StringID>
+    <StringID>
+      <id>255701</id>
+      <str>東方Project 博麗神社～春祭りちほー</str>
+    </StringID>
+    <StringID>
+      <id>255801</id>
+      <str>CHUNITHMちほー</str>
+    </StringID>
+    <StringID>
+      <id>255802</id>
+      <str>コスモポップファンクラブ</str>
+    </StringID>
+    <StringID>
+      <id>255901</id>
+      <str>すりぃちほー</str>
+    </StringID>
+    <StringID>
+      <id>256001</id>
+      <str>オンゲキちほー5</str>
+    </StringID>
+    <StringID>
+      <id>259501</id>
+      <str>「シーズン4」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>259502</id>
+      <str>「シーズン5」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>259503</id>
+      <str>「シーズン6」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>259504</id>
+      <str>ONGEKI Sound Collection 07</str>
+    </StringID>
+    <StringID>
+      <id>259505</id>
+      <str>ふたりでばかんすにゃ♪</str>
+    </StringID>
+    <StringID>
+      <id>259506</id>
+      <str>Rain Drops風でらっくま</str>
+    </StringID>
+    <StringID>
+      <id>300101</id>
+      <str>ハピフェスちほー</str>
+    </StringID>
+    <StringID>
+      <id>300102</id>
+      <str>ハピフェスちほー おまけ</str>
+    </StringID>
+    <StringID>
+      <id>300201</id>
+      <str>メトロポリスちほー6</str>
+    </StringID>
+    <StringID>
+      <id>300202</id>
+      <str>メトロポリスちほー6 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>300301</id>
+      <str>スカイストリートちほー3</str>
+    </StringID>
+    <StringID>
+      <id>300302</id>
+      <str>スカイストリートちほー3 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>300401</id>
+      <str>天界ちほー6</str>
+    </StringID>
+    <StringID>
+      <id>300402</id>
+      <str>天界ちほー6 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>300501</id>
+      <str>フェスティバルちほー</str>
+    </StringID>
+    <StringID>
+      <id>300601</id>
+      <str>BLACK ROSEちほー7</str>
+    </StringID>
+    <StringID>
+      <id>300602</id>
+      <str>BLACK ROSEちほー7 おまけ</str>
+    </StringID>
+    <StringID>
+      <id>305101</id>
+      <str>先輩がうざい後輩の話ちほー</str>
+    </StringID>
+    <StringID>
+      <id>305102</id>
+      <str>先輩がうざい後輩の話 エンドカード その1</str>
+    </StringID>
+    <StringID>
+      <id>305103</id>
+      <str>先輩がうざい後輩の話 エンドカード その2</str>
+    </StringID>
+    <StringID>
+      <id>305104</id>
+      <str>先輩がうざい後輩の話 エンドカード その3</str>
+    </StringID>
+    <StringID>
+      <id>305201</id>
+      <str>DECO*27ちほー</str>
+    </StringID>
+    <StringID>
+      <id>305202</id>
+      <str>アニマル</str>
+    </StringID>
+    <StringID>
+      <id>305203</id>
+      <str>ヴァンパイア</str>
+    </StringID>
+    <StringID>
+      <id>305301</id>
+      <str>プロジェクトセカイちほー3</str>
+    </StringID>
+    <StringID>
+      <id>305401</id>
+      <str>東方Project×オンゲキちほー</str>
+    </StringID>
+    <StringID>
+      <id>305501</id>
+      <str>さなちゃんねるちほー</str>
+    </StringID>
+    <StringID>
+      <id>305502</id>
+      <str>ば～ちゃるな～す名取さな</str>
+    </StringID>
+    <StringID>
+      <id>305601</id>
+      <str>ZONeちほー</str>
+    </StringID>
+    <StringID>
+      <id>305602</id>
+      <str>ZONe UPDATE!</str>
+    </StringID>
+    <StringID>
+      <id>305603</id>
+      <str>ZONe</str>
+    </StringID>
+    <StringID>
+      <id>305702</id>
+      <str>樋口楓ちほー</str>
+    </StringID>
+    <StringID>
+      <id>305701</id>
+      <str>AIM</str>
+    </StringID>
+    <StringID>
+      <id>305801</id>
+      <str>外神田文芸高校</str>
+    </StringID>
+    <StringID>
+      <id>305802</id>
+      <str>帝音国際学院</str>
+    </StringID>
+    <StringID>
+      <id>305901</id>
+      <str>CHUNITHMちほー2</str>
+    </StringID>
+    <StringID>
+      <id>306001</id>
+      <str>syudouちほー</str>
+    </StringID>
+    <StringID>
+      <id>306101</id>
+      <str>光／Fracture</str>
+    </StringID>
+    <StringID>
+      <id>306102</id>
+      <str>対立／Tempest</str>
+    </StringID>
+    <StringID>
+      <id>306103</id>
+      <str>アリス</str>
+    </StringID>
+    <StringID>
+      <id>306104</id>
+      <str>ラグランジュ</str>
+    </StringID>
+    <StringID>
+      <id>309101</id>
+      <str>Thank you for playing -UNiVERSE-</str>
+    </StringID>
+    <StringID>
+      <id>309103</id>
+      <str>PERFECT Jewel [Sapphire]</str>
+    </StringID>
+    <StringID>
+      <id>309102</id>
+      <str>SYNC Jewel [Sapphire]</str>
+    </StringID>
+    <StringID>
+      <id>309201</id>
+      <str>[Make UP Future！]星咲 あかり</str>
+    </StringID>
+    <StringID>
+      <id>309202</id>
+      <str>[Make UP Future！]藤沢 柚子</str>
+    </StringID>
+    <StringID>
+      <id>309203</id>
+      <str>[Make UP Future！]三角 葵</str>
+    </StringID>
+    <StringID>
+      <id>309204</id>
+      <str>[Make UP Future！]高瀬 梨緒</str>
+    </StringID>
+    <StringID>
+      <id>309205</id>
+      <str>[Make UP Future！]結城 莉玖</str>
+    </StringID>
+    <StringID>
+      <id>309206</id>
+      <str>[Make UP Future！]藍原 椿</str>
+    </StringID>
+    <StringID>
+      <id>309207</id>
+      <str>[Make UP Future！]早乙女 彩華</str>
+    </StringID>
+    <StringID>
+      <id>309208</id>
+      <str>[Make UP Future！]桜井 春菜</str>
+    </StringID>
+    <StringID>
+      <id>309209</id>
+      <str>[Make UP Future！]九條 楓</str>
+    </StringID>
+    <StringID>
+      <id>309210</id>
+      <str>[Make UP Future！]柏木 咲姫</str>
+    </StringID>
+    <StringID>
+      <id>309211</id>
+      <str>[Make UP Future！]井之原 小星</str>
+    </StringID>
+    <StringID>
+      <id>309212</id>
+      <str>[Make UP Future！]逢坂 茜</str>
+    </StringID>
+    <StringID>
+      <id>309213</id>
+      <str>[Make UP Future！]珠洲島 有栖</str>
+    </StringID>
+    <StringID>
+      <id>309214</id>
+      <str>[Make UP Future！]柏木 美亜</str>
+    </StringID>
+    <StringID>
+      <id>309215</id>
+      <str>[Make UP Future！]日向 千夏</str>
+    </StringID>
+    <StringID>
+      <id>309216</id>
+      <str>[Make UP Future！]東雲 つむぎ</str>
+    </StringID>
+    <StringID>
+      <id>309217</id>
+      <str>[Make UP Future！]皇城 セツナ</str>
+    </StringID>
+    <StringID>
+      <id>309501</id>
+      <str>「シーズン7」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>309502</id>
+      <str>「シーズン8」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>309503</id>
+      <str>「シーズン9」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>309504</id>
+      <str>Heavenly Blast</str>
+    </StringID>
+    <StringID>
+      <id>309505</id>
+      <str>sølips</str>
+    </StringID>
+    <StringID>
+      <id>309506</id>
+      <str>maimai 10th ANNiVERSARY!!</str>
+    </StringID>
+    <StringID>
+      <id>309507</id>
+      <str>Rainbow Rush Story</str>
+    </StringID>
+    <StringID>
+      <id>309508</id>
+      <str>maimai でらっくす グッズキャンペーンDiSC -FESTiVAL-</str>
+    </StringID>
+    <StringID>
+      <id>350051</id>
+      <str>ぱちんこ maimai でらっくす</str>
+    </StringID>
+    <StringID>
+      <id>350101</id>
+      <str>ハピフェスちほー2</str>
+    </StringID>
+    <StringID>
+      <id>350301</id>
+      <str>スカイストリートちほー4</str>
+    </StringID>
+    <StringID>
+      <id>350401</id>
+      <str>ドラゴンちほー2</str>
+    </StringID>
+    <StringID>
+      <id>350501</id>
+      <str>フェスティバルちほー2</str>
+    </StringID>
+    <StringID>
+      <id>350601</id>
+      <str>BLACK ROSEちほー8</str>
+    </StringID>
+    <StringID>
+      <id>350701</id>
+      <str>10周年記念ちほー2</str>
+    </StringID>
+    <StringID>
+      <id>355101</id>
+      <str>ヒメヒナちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>355102</id>
+      <str>ヒメヒナちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>355201</id>
+      <str>ピノキオピーちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>355202</id>
+      <str>ピノキオピーちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>355203</id>
+      <str>ピノキオピーちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>355204</id>
+      <str>ピノキオピーちほー その4</str>
+    </StringID>
+    <StringID>
+      <id>355301</id>
+      <str>Muse Dashちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>355302</id>
+      <str>Muse Dashちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>355303</id>
+      <str>Muse Dashちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>355304</id>
+      <str>Muse Dashちほー その4</str>
+    </StringID>
+    <StringID>
+      <id>355305</id>
+      <str>Muse Dashちほー その5</str>
+    </StringID>
+    <StringID>
+      <id>355401</id>
+      <str>東方Project×イロドリミドリちほー</str>
+    </StringID>
+    <StringID>
+      <id>355501</id>
+      <str>MEGAREXちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>355502</id>
+      <str>MEGAREXちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>355601</id>
+      <str>からめるちほー2 その1</str>
+    </StringID>
+    <StringID>
+      <id>355602</id>
+      <str>からめるちほー2 その2</str>
+    </StringID>
+    <StringID>
+      <id>355603</id>
+      <str>からめるちほー2 その3</str>
+    </StringID>
+    <StringID>
+      <id>355604</id>
+      <str>からめるちほー2 その4</str>
+    </StringID>
+    <StringID>
+      <id>409507</id>
+      <str>ねこドアップ</str>
+    </StringID>
+    <StringID>
+      <id>409508</id>
+      <str>みんないるよ</str>
+    </StringID>
+    <StringID>
+      <id>409509</id>
+      <str>ウーパールーパー</str>
+    </StringID>
+    <StringID>
+      <id>409510</id>
+      <str>ペンギン島流し</str>
+    </StringID>
+    <StringID>
+      <id>409511</id>
+      <str>ぐるん地獄行き</str>
+    </StringID>
+    <StringID>
+      <id>409512</id>
+      <str>ねこ無限増殖</str>
+    </StringID>
+    <StringID>
+      <id>409513</id>
+      <str>らくがき</str>
+    </StringID>
+    <StringID>
+      <id>409514</id>
+      <str>ネオンポップ</str>
+    </StringID>
+    <StringID>
+      <id>409515</id>
+      <str>純粋な爆発</str>
+    </StringID>
+    <StringID>
+      <id>355701</id>
+      <str>音楽的同位体　可不ちほー</str>
+    </StringID>
+    <StringID>
+      <id>355801</id>
+      <str>オンゲキちほー6</str>
+    </StringID>
+    <StringID>
+      <id>359501</id>
+      <str>「シーズン10」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>359502</id>
+      <str>「シーズン11」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>359503</id>
+      <str>「シーズン12」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>359504</id>
+      <str>Tricolor⁂circuS</str>
+    </StringID>
+    <StringID>
+      <id>359505</id>
+      <str>【仮】maimaiビジュアルブック</str>
+    </StringID>
+    <StringID>
+      <id>400101</id>
+      <str>パーリィちほー</str>
+    </StringID>
+    <StringID>
+      <id>400201</id>
+      <str>メトロポリスちほー7</str>
+    </StringID>
+    <StringID>
+      <id>400301</id>
+      <str>スカイストリートちほー5</str>
+    </StringID>
+    <StringID>
+      <id>400401</id>
+      <str>7sRefちほー3</str>
+    </StringID>
+    <StringID>
+      <id>400501</id>
+      <str>バディーズちほー</str>
+    </StringID>
+    <StringID>
+      <id>400601</id>
+      <str>BLACK ROSEちほー9</str>
+    </StringID>
+    <StringID>
+      <id>405101</id>
+      <str>いよわちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>405102</id>
+      <str>いよわちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>405103</id>
+      <str>いよわちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>405201</id>
+      <str>グルーヴコースターちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>405202</id>
+      <str>グルーヴコースターちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>405301</id>
+      <str>ヘブンバーンズレッドちほー</str>
+    </StringID>
+    <StringID>
+      <id>405401</id>
+      <str>WACCAちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>405402</id>
+      <str>WACCAちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>405403</id>
+      <str>WACCAちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>405501</id>
+      <str>異世界おじさんちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>405502</id>
+      <str>異世界おじさんちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>405601</id>
+      <str>sasakure.UKちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>405602</id>
+      <str>sasakure.UKちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>405701</id>
+      <str>TJ.hangneilちほー</str>
+    </StringID>
+    <StringID>
+      <id>405801</id>
+      <str>月面ちほー</str>
+    </StringID>
+    <StringID>
+      <id>405901</id>
+      <str>裏 月面ちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>405902</id>
+      <str>裏 月面ちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>406101</id>
+      <str>東北ずん子ちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>406102</id>
+      <str>東北ずん子ちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>406201</id>
+      <str>CHUNITHMちほー3</str>
+    </StringID>
+    <StringID>
+      <id>406301</id>
+      <str>Leo/need</str>
+    </StringID>
+    <StringID>
+      <id>406302</id>
+      <str>MORE MORE JUMP！</str>
+    </StringID>
+    <StringID>
+      <id>406303</id>
+      <str>Vivid BAD SQUAD</str>
+    </StringID>
+    <StringID>
+      <id>406304</id>
+      <str>ワンダーランズ×ショウタイム</str>
+    </StringID>
+    <StringID>
+      <id>406305</id>
+      <str>25時、ナイトコードで。</str>
+    </StringID>
+    <StringID>
+      <id>409101</id>
+      <str>Thank you for playing -FESTiVAL-</str>
+    </StringID>
+    <StringID>
+      <id>409102</id>
+      <str>SYNC Jewel [Amethyst]</str>
+    </StringID>
+    <StringID>
+      <id>409103</id>
+      <str>PERFECT Jewel [Amethyst]</str>
+    </StringID>
+    <StringID>
+      <id>409501</id>
+      <str>「シーズン13」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>409502</id>
+      <str>「シーズン14」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>409503</id>
+      <str>「シーズン15」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>409504</id>
+      <str>mystique as iris</str>
+    </StringID>
+    <StringID>
+      <id>409505</id>
+      <str>VeRForTe αRtE:VEiN</str>
+    </StringID>
+    <StringID>
+      <id>409506</id>
+      <str>maimai でらっくす ベストアルバムちほー2</str>
+    </StringID>
+    <StringID>
+      <id>409516</id>
+      <str>maimai でらっくす グッズキャンペーンDiSC -BUDDiES-</str>
+    </StringID>
+    <StringID>
+      <id>409517</id>
+      <str>#夜駆十億</str>
+    </StringID>
+    <StringID>
+      <id>450101</id>
+      <str>パーリィちほー2</str>
+    </StringID>
+    <StringID>
+      <id>450201</id>
+      <str>メトロポリスちほー8</str>
+    </StringID>
+    <StringID>
+      <id>450301</id>
+      <str>ドラゴンちほー3</str>
+    </StringID>
+    <StringID>
+      <id>450401</id>
+      <str>天界ちほー7</str>
+    </StringID>
+    <StringID>
+      <id>450501</id>
+      <str>バディーズちほー2</str>
+    </StringID>
+    <StringID>
+      <id>455101</id>
+      <str>NEEDY GIRL OVERDOSEちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>455102</id>
+      <str>NEEDY GIRL OVERDOSEちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>455103</id>
+      <str>NEEDY GIRL OVERDOSEちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>455104</id>
+      <str>NEEDY GIRL OVERDOSEちほー その4</str>
+    </StringID>
+    <StringID>
+      <id>455201</id>
+      <str>花譜ちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>455202</id>
+      <str>花譜ちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>455203</id>
+      <str>花譜ちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>455301</id>
+      <str>ゆこぴちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>455302</id>
+      <str>ゆこぴちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>455401</id>
+      <str>グルーヴコースターちほー2</str>
+    </StringID>
+    <StringID>
+      <id>455501</id>
+      <str>まいまいまいごえんちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>455502</id>
+      <str>まいまいまいごえんちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>455503</id>
+      <str>まいまいまいごえんちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>455601</id>
+      <str>にじさんじのB級バラエティ（仮）ちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>455602</id>
+      <str>にじさんじのB級バラエティ（仮）ちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>455701</id>
+      <str>東方ダンマクカグラ ファンタジア・ロストちほー</str>
+    </StringID>
+    <StringID>
+      <id>455801</id>
+      <str>HARDCORE TANO*Cちほー2</str>
+    </StringID>
+    <StringID>
+      <id>455901</id>
+      <str>＃コンパスちほー2 その1</str>
+    </StringID>
+    <StringID>
+      <id>455902</id>
+      <str>＃コンパスちほー2 その2</str>
+    </StringID>
+    <StringID>
+      <id>456001</id>
+      <str>周防パトラちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>456002</id>
+      <str>周防パトラちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>456003</id>
+      <str>周防パトラちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>456004</id>
+      <str>周防パトラちほー その4</str>
+    </StringID>
+    <StringID>
+      <id>456101</id>
+      <str>オンゲキちほー7</str>
+    </StringID>
+    <StringID>
+      <id>459501</id>
+      <str>「シーズン16」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>459502</id>
+      <str>「シーズン17」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>459503</id>
+      <str>「シーズン18」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>459504</id>
+      <str>Latent Kingdom</str>
+    </StringID>
+    <StringID>
+      <id>459505</id>
+      <str>MMT type DX</str>
+    </StringID>
+    <StringID>
+      <id>500101</id>
+      <str>スカイストリートちほー6</str>
+    </StringID>
+    <StringID>
+      <id>500102</id>
+      <str>KALEIDXSCOPE -青春エリア-</str>
+    </StringID>
+    <StringID>
+      <id>500201</id>
+      <str>天界ちほー8</str>
+    </StringID>
+    <StringID>
+      <id>500202</id>
+      <str>KALEIDXSCOPE -神様エリア-</str>
+    </StringID>
+    <StringID>
+      <id>500301</id>
+      <str>BLACK ROSEちほー10</str>
+    </StringID>
+    <StringID>
+      <id>500302</id>
+      <str>KALEIDXSCOPE -黒薔薇エリア-</str>
+    </StringID>
+    <StringID>
+      <id>500401</id>
+      <str>メトロポリスちほー9</str>
+    </StringID>
+    <StringID>
+      <id>500402</id>
+      <str>KALEIDXSCOPE -終末エリア-</str>
+    </StringID>
+    <StringID>
+      <id>500501</id>
+      <str>プリズムちほー</str>
+    </StringID>
+    <StringID>
+      <id>505101</id>
+      <str>葬送のフリーレンちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>505102</id>
+      <str>葬送のフリーレンちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>505103</id>
+      <str>葬送のフリーレンちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>505201</id>
+      <str>かいりきベアちほー2 その1</str>
+    </StringID>
+    <StringID>
+      <id>505202</id>
+      <str>かいりきベアちほー2 その2</str>
+    </StringID>
+    <StringID>
+      <id>505301</id>
+      <str>MonsterZ MATEちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>505302</id>
+      <str>MonsterZ MATEちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>505401</id>
+      <str>おめがシスターズちほー</str>
+    </StringID>
+    <StringID>
+      <id>505501</id>
+      <str>ワールドダイスター 夢のステラリウムちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>505502</id>
+      <str>ワールドダイスター 夢のステラリウムちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>505601</id>
+      <str>夢限大みゅーたいぷ 仲町あられ</str>
+    </StringID>
+    <StringID>
+      <id>505602</id>
+      <str>夢限大みゅーたいぷ 宮永ののか</str>
+    </StringID>
+    <StringID>
+      <id>505603</id>
+      <str>夢限大みゅーたいぷ 峰月律</str>
+    </StringID>
+    <StringID>
+      <id>505604</id>
+      <str>夢限大みゅーたいぷ 藤都子</str>
+    </StringID>
+    <StringID>
+      <id>505605</id>
+      <str>夢限大みゅーたいぷ 千石ユノ</str>
+    </StringID>
+    <StringID>
+      <id>505701</id>
+      <str>Arcaeaちほー3 その1</str>
+    </StringID>
+    <StringID>
+      <id>505702</id>
+      <str>Arcaeaちほー3 その2</str>
+    </StringID>
+    <StringID>
+      <id>505703</id>
+      <str>Arcaeaちほー3 その3</str>
+    </StringID>
+    <StringID>
+      <id>505801</id>
+      <str>重音テトちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>505802</id>
+      <str>重音テトちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>505803</id>
+      <str>重音テトちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>505804</id>
+      <str>重音テトちほー その4</str>
+    </StringID>
+    <StringID>
+      <id>505901</id>
+      <str>ななひらちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>505902</id>
+      <str>ななひらちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>506001</id>
+      <str>オンゲキちほー8</str>
+    </StringID>
+    <StringID>
+      <id>509101</id>
+      <str>Thank you for playing -BUDDiES-</str>
+    </StringID>
+    <StringID>
+      <id>509102</id>
+      <str>SYNC Jewel [Topaz]</str>
+    </StringID>
+    <StringID>
+      <id>509103</id>
+      <str>PERFECT Jewel [Topaz]</str>
+    </StringID>
+    <StringID>
+      <id>509501</id>
+      <str>「シーズン19」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>509502</id>
+      <str>「シーズン20」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>509503</id>
+      <str>「シーズン21」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>509504</id>
+      <str>Valsqotch</str>
+    </StringID>
+    <StringID>
+      <id>509505</id>
+      <str>maimai でらっくす グッズキャンペーンDiSC -PRiSM-</str>
+    </StringID>
+    <StringID>
+      <id>550101</id>
+      <str>なないろちほー</str>
+    </StringID>
+    <StringID>
+      <id>550102</id>
+      <str>KALEIDXSCOPE -はじまりエリア-</str>
+    </StringID>
+    <StringID>
+      <id>550201</id>
+      <str>ドラゴンちほー4</str>
+    </StringID>
+    <StringID>
+      <id>550202</id>
+      <str>KALEIDXSCOPE -世界樹エリア-</str>
+    </StringID>
+    <StringID>
+      <id>550301</id>
+      <str>7sRefちほー4</str>
+    </StringID>
+    <StringID>
+      <id>550302</id>
+      <str>KALEIDXSCOPE -プリズムエリア-</str>
+    </StringID>
+    <StringID>
+      <id>550303</id>
+      <str>KALEIDXSCOPE -旧き世界-</str>
+    </StringID>
+    <StringID>
+      <id>550304</id>
+      <str>KALEIDXSCOPE -アシッド-</str>
+    </StringID>
+    <StringID>
+      <id>550305</id>
+      <str>KALEIDXSCOPE -プリズム-</str>
+    </StringID>
+    <StringID>
+      <id>550306</id>
+      <str>KALEIDXSCOPE -PRiSM-</str>
+    </StringID>
+    <StringID>
+      <id>550307</id>
+      <str>KALEIDXSCOPE -Ref:rain-</str>
+    </StringID>
+    <StringID>
+      <id>550401</id>
+      <str>プリズムちほー2</str>
+    </StringID>
+    <StringID>
+      <id>555101</id>
+      <str>NEEDY GIRL OVERDOSEちほー2 その1</str>
+    </StringID>
+    <StringID>
+      <id>555102</id>
+      <str>NEEDY GIRL OVERDOSEちほー2 その2</str>
+    </StringID>
+    <StringID>
+      <id>555103</id>
+      <str>NEEDY GIRL OVERDOSEちほー2 その3</str>
+    </StringID>
+    <StringID>
+      <id>555201</id>
+      <str>神椿市協奏中。ちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>555202</id>
+      <str>神椿市協奏中。ちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>555203</id>
+      <str>神椿市協奏中。ちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>555401</id>
+      <str>那須どうぶつ王国ちほー</str>
+    </StringID>
+    <StringID>
+      <id>555501</id>
+      <str>DECO*27ちほー2 その1</str>
+    </StringID>
+    <StringID>
+      <id>555502</id>
+      <str>DECO*27ちほー2 その2</str>
+    </StringID>
+    <StringID>
+      <id>555503</id>
+      <str>DECO*27ちほー2 その3</str>
+    </StringID>
+    <StringID>
+      <id>555601</id>
+      <str>ビートまりおちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>555602</id>
+      <str>ビートまりおちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>555701</id>
+      <str>小春六花</str>
+    </StringID>
+    <StringID>
+      <id>555702</id>
+      <str>夏色花梨</str>
+    </StringID>
+    <StringID>
+      <id>555703</id>
+      <str>花隈千冬</str>
+    </StringID>
+    <StringID>
+      <id>555704</id>
+      <str>小春六花・夏色花梨・花隈千冬ちほー</str>
+    </StringID>
+    <StringID>
+      <id>555801</id>
+      <str>CHUNITHMちほー4</str>
+    </StringID>
+    <StringID>
+      <id>555901</id>
+      <str>三枝明那ちほー</str>
+    </StringID>
+    <StringID>
+      <id>556001</id>
+      <str>Phigrosちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>556002</id>
+      <str>Phigrosちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>558001</id>
+      <str>♡でらっくま♡</str>
+    </StringID>
+    <StringID>
+      <id>558011</id>
+      <str>♡乙姫♡</str>
+    </StringID>
+    <StringID>
+      <id>558012</id>
+      <str>♡ラズ♡</str>
+    </StringID>
+    <StringID>
+      <id>558013</id>
+      <str>♡シフォン♡</str>
+    </StringID>
+    <StringID>
+      <id>558014</id>
+      <str>♡ソルト♡</str>
+    </StringID>
+    <StringID>
+      <id>558015</id>
+      <str>♡しゃま♡</str>
+    </StringID>
+    <StringID>
+      <id>558016</id>
+      <str>♡みるく♡</str>
+    </StringID>
+    <StringID>
+      <id>558017</id>
+      <str>♡らいむっくま＆れもんっくま♡</str>
+    </StringID>
+    <StringID>
+      <id>558018</id>
+      <str>♡乙姫（すぷらっしゅ）♡</str>
+    </StringID>
+    <StringID>
+      <id>558019</id>
+      <str>♡しゃま（ゆにばーす）♡</str>
+    </StringID>
+    <StringID>
+      <id>558020</id>
+      <str>♡みるく（ゆにばーす）♡</str>
+    </StringID>
+    <StringID>
+      <id>558021</id>
+      <str>♡ちびみるく♡</str>
+    </StringID>
+    <StringID>
+      <id>558022</id>
+      <str>♡百合咲 ミカ♡</str>
+    </StringID>
+    <StringID>
+      <id>558023</id>
+      <str>♡ラズ（ふぇすてぃばる）♡</str>
+    </StringID>
+    <StringID>
+      <id>558024</id>
+      <str>♡シフォン（ふぇすてぃばる）♡</str>
+    </StringID>
+    <StringID>
+      <id>558025</id>
+      <str>♡ソルト（ふぇすてぃばる）♡</str>
+    </StringID>
+    <StringID>
+      <id>558026</id>
+      <str>♡黒姫♡</str>
+    </StringID>
+    <StringID>
+      <id>558028</id>
+      <str>♡乙姫（ばでぃーず）♡</str>
+    </StringID>
+    <StringID>
+      <id>558029</id>
+      <str>♡らいむっくま＆れもんっくま（ばでぃーず）♡</str>
+    </StringID>
+    <StringID>
+      <id>558030</id>
+      <str>♡ラズ（ばでぃーず）♡</str>
+    </StringID>
+    <StringID>
+      <id>558031</id>
+      <str>♡ソルト（ぷりずむ）♡</str>
+    </StringID>
+    <StringID>
+      <id>558032</id>
+      <str>♡みるく（ぷりずむ）♡</str>
+    </StringID>
+    <StringID>
+      <id>558034</id>
+      <str>♡リズ♡</str>
+    </StringID>
+    <StringID>
+      <id>559501</id>
+      <str>「シーズン22」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>559502</id>
+      <str>「シーズン23」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>559503</id>
+      <str>「シーズン24」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>559504</id>
+      <str>Cryptarithm</str>
+    </StringID>
+    <StringID>
+      <id>600101</id>
+      <str>トリコロちほー</str>
+    </StringID>
+    <StringID>
+      <id>600201</id>
+      <str>kawaiiちほー2</str>
+    </StringID>
+    <StringID>
+      <id>600301</id>
+      <str>高天原ちほー2</str>
+    </StringID>
+    <StringID>
+      <id>600401</id>
+      <str>スカイストリートちほー7</str>
+    </StringID>
+    <StringID>
+      <id>600501</id>
+      <str>サークルちほー</str>
+    </StringID>
+    <StringID>
+      <id>605101</id>
+      <str>ブルーアーカイブ アル</str>
+    </StringID>
+    <StringID>
+      <id>605102</id>
+      <str>ブルーアーカイブ カヨコ</str>
+    </StringID>
+    <StringID>
+      <id>605103</id>
+      <str>ブルーアーカイブ ムツキ</str>
+    </StringID>
+    <StringID>
+      <id>605104</id>
+      <str>ブルーアーカイブ ハルカ</str>
+    </StringID>
+    <StringID>
+      <id>605105</id>
+      <str>ブルーアーカイブ ヨシミ</str>
+    </StringID>
+    <StringID>
+      <id>605106</id>
+      <str>ブルーアーカイブ アイリ</str>
+    </StringID>
+    <StringID>
+      <id>605107</id>
+      <str>ブルーアーカイブ カズサ</str>
+    </StringID>
+    <StringID>
+      <id>605108</id>
+      <str>ブルーアーカイブ ナツ</str>
+    </StringID>
+    <StringID>
+      <id>605201</id>
+      <str>こっちのけんとちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>605202</id>
+      <str>こっちのけんとちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>605301</id>
+      <str>五等分の花嫁∽ 中野 一花</str>
+    </StringID>
+    <StringID>
+      <id>605302</id>
+      <str>五等分の花嫁∽ 中野 二乃</str>
+    </StringID>
+    <StringID>
+      <id>605303</id>
+      <str>五等分の花嫁∽ 中野 三玖</str>
+    </StringID>
+    <StringID>
+      <id>605304</id>
+      <str>五等分の花嫁∽ 中野 四葉</str>
+    </StringID>
+    <StringID>
+      <id>605305</id>
+      <str>五等分の花嫁∽ 中野 五月</str>
+    </StringID>
+    <StringID>
+      <id>605306</id>
+      <str>五等分の花嫁∽ちほー</str>
+    </StringID>
+    <StringID>
+      <id>605401</id>
+      <str>FEAT CONTESTちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>605402</id>
+      <str>FEAT CONTESTちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>605403</id>
+      <str>FEAT CONTESTちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>605404</id>
+      <str>FEAT CONTESTちほー その4</str>
+    </StringID>
+    <StringID>
+      <id>605405</id>
+      <str>FEAT CONTESTちほー その5</str>
+    </StringID>
+    <StringID>
+      <id>605501</id>
+      <str>劇場版プロジェクトセカイ　壊れたセカイと歌えないミクちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>605502</id>
+      <str>劇場版プロジェクトセカイ　壊れたセカイと歌えないミクちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>605503</id>
+      <str>劇場版プロジェクトセカイ　壊れたセカイと歌えないミクちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>605504</id>
+      <str>劇場版プロジェクトセカイ　壊れたセカイと歌えないミクちほー その4</str>
+    </StringID>
+    <StringID>
+      <id>605505</id>
+      <str>劇場版プロジェクトセカイ　壊れたセカイと歌えないミクちほー その5</str>
+    </StringID>
+    <StringID>
+      <id>605506</id>
+      <str>劇場版プロジェクトセカイ　壊れたセカイと歌えないミクちほー その6</str>
+    </StringID>
+    <StringID>
+      <id>605601</id>
+      <str>Project ONSOKUちほー</str>
+    </StringID>
+    <StringID>
+      <id>605701</id>
+      <str>cosMo@暴走Pちほー2 その1</str>
+    </StringID>
+    <StringID>
+      <id>605702</id>
+      <str>cosMo@暴走Pちほー2 その2</str>
+    </StringID>
+    <StringID>
+      <id>605703</id>
+      <str>cosMo@暴走Pちほー2 その3</str>
+    </StringID>
+    <StringID>
+      <id>605801</id>
+      <str>しぐれういちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>605802</id>
+      <str>しぐれういちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>605901</id>
+      <str>Paradigm: Rebootちほー</str>
+    </StringID>
+    <StringID>
+      <id>606001</id>
+      <str>IOSYSちほー その1</str>
+    </StringID>
+    <StringID>
+      <id>606002</id>
+      <str>IOSYSちほー その2</str>
+    </StringID>
+    <StringID>
+      <id>606003</id>
+      <str>IOSYSちほー その3</str>
+    </StringID>
+    <StringID>
+      <id>606101</id>
+      <str>オンゲキちほー9</str>
+    </StringID>
+    <StringID>
+      <id>608035</id>
+      <str>♡シフォン（さーくる）♡</str>
+    </StringID>
+    <StringID>
+      <id>609101</id>
+      <str>Thank you for playing -PRiSM-</str>
+    </StringID>
+    <StringID>
+      <id>609102</id>
+      <str>SYNC Jewel [Opal]</str>
+    </StringID>
+    <StringID>
+      <id>609103</id>
+      <str>PERFECT Jewel [Opal]</str>
+    </StringID>
+    <StringID>
+      <id>609501</id>
+      <str>「シーズン25」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>609502</id>
+      <str>「シーズン26」トップランカー</str>
+    </StringID>
+    <StringID>
+      <id>609503</id>
+      <str>「サークルフェスタ シーズン1」TOP10</str>
+    </StringID>
+    <StringID>
+      <id>609504</id>
+      <str>「サークルフェスタ シーズン2」TOP10</str>
+    </StringID>
+    <StringID>
+      <id>609505</id>
+      <str>ATLAS RUSH</str>
+    </StringID>
+    <StringID>
+      <id>609506</id>
+      <str>maimai でらっくす ベストアルバムちほー3</str>
+    </StringID>
+    <StringID>
+      <id>609507</id>
+      <str>maimai でらっくす グッズキャンペーンDiSC -CiRCLE-</str>
+    </StringID>
+  </SortList>
+</SerializeSortData>

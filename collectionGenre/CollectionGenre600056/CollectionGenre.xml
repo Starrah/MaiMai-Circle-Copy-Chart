@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CollectionGenreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>CollectionGenre600056</dataName>
+  <name>
+    <id>600056</id>
+    <str>Project ONSOKU</str>
+  </name>
+  <genreName>Project ONSOKU</genreName>
+  <genreNameTwoLine>Project ONSOKU</genreNameTwoLine>
+  <Color>
+    <R>255</R>
+    <G>118</G>
+    <B>91</B>
+  </Color>
+  <FileName>UI_CMN_TabTitle_EventMap_133</FileName>
+  <priority>0</priority>
+  <disable>false</disable>
+</CollectionGenreData>
